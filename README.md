@@ -1,3 +1,5 @@
+<img src="http://www.hersindex.com/wp-content/uploads/HERS_Index_Scores_the_Lower_the_Better.jpg" width='150' >
+
 ## LOWER - LORA WIRELESS POWER
 ------------------------
 ### Introduction
