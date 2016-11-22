@@ -1,5 +1,6 @@
-## LOWER - LORA WIRELESS POWER  <p align="left"> <img src="https://fynnmajor.files.wordpress.com/2010/10/lower-logo.jpg" width="150"/> </p> 
+ <p align="left"> <img src="https://fynnmajor.files.wordpress.com/2010/10/lower-logo.jpg" width="150"/> </p> 
 
+## LOWER - LORA WIRELESS POWER 
 ### Introduction
 ------------------------
 
