@@ -1,6 +1,6 @@
 /*
  * Sketch for testing sleep mode with wake up on WDT.
- * Donal Morrissey - 2011.
+ * Donal Morrissey - 2011.testets
  *
  */
 #include <avr/sleep.h>
