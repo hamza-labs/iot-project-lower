@@ -99,7 +99,7 @@ void setup()
 }
 
 /***************************************************
- *  Name:        enterSleep
+ *  Name:        enterSleepp
  *
  *  Returns:     Nothing.
  *
