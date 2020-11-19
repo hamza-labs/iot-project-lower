@@ -1,5 +1,3 @@
-<img src="http://www.hersindex.com/wp-content/uploads/HERS_Index_Scores_the_Lower_the_Better.jpg" width='150' >
-
 ### LOWER - LORA WIRELESS POWER
 ------------------------
 ### Introduction
@@ -19,11 +17,6 @@ See the [Wiki](https://github.com/m2ssio/lower/wiki) for full documentation, exa
 
 - <assia.bakrim@gmail.com>
 - <https://www.facebook.com/assia.bakrim>
-
-**Mouna ESSGHAIER**
-
-- <mouna.essghaier@gmail.com>
-- <https://www.facebook.com/mouna.essghaier>
 
 ### Bugs and Feedback
 For bugs, questions and discussions please use the [Github Issues](https://github.com/m2ssio/lower/issues).
